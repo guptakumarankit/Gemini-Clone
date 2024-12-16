@@ -9,8 +9,6 @@ import Card from "../../card/Card";
 const MainBar = () => {
   
   const {onSend,recentPrompt,showResult,loading,resultData,setInput,input} = useContext(Context)
-  
-
 
   return (
   
