@@ -1,4 +1,4 @@
-# 🧠 Gemini AI Clone
+# Gemini AI Clone
 
 A powerful and sleek AI chatbot built using **React**, **CSS**, and the **Gemini API**. It allows users to ask anything and receive smart, well-formatted answers instantly. The app includes a sidebar to show recent search history and supports fresh conversations through a **"New Chat"** feature.
 
